@@ -5,3 +5,4 @@ App4 - Write an application that draws basic graphical primitives on the screen.
 App5 - Develop an application that makes use of database.
 App6 - Develop an application that makes use of RSS Feed.
 App7 - Implement an application that implements Multi threading.
+App8 - Implement an application that writes data to the SD card.
